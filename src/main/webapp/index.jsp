@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <body>
-	<img src = c.jpg>
+	<img src = image.png>
 	<br>
 	<br>
 	<br>
